@@ -27,7 +27,7 @@
 * notebook 可以随意命名，建议使用 ml.t2.medium，因为它属于免费套餐。
 * 对于角色，新建一个角色就行了。使用默认选项即可。
 * 注意，notebook 实例需要能够访问 S3 资源，默认就能访问。该 notebook 可以访问名称中带 sagemaker 的任何 S3 存储桶或对象。
-* 使用 **git clone** 将项目代码库克隆到 notebook 实例中，网址为：`https://github.com/udacity/ML_SageMaker_Studies.git`
+* 使用 **git clone** 将项目代码库克隆到 notebook 实例中，网址为：`https://github.com/udacity/CN-ML_SageMaker_Studies.git`
 
 ### 打开和运行你所选的 notebook
 
